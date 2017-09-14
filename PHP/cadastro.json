@@ -1,8 +1,8 @@
 {
 "pilotos":[
-	{"nome": "Justin Bieber", "UID":1234},
-	{"nome": "Roebrto Carlos", "UID":2234},
-	{"nome": "Claudia Leite", "UID":2235},
-	{"nome": "Kate Perry", "UID":1235}
+	{"nome": "Justin Bieber", "UID":"AD 9B 06 7D"},
+	{"nome": "Roebrto Carlos", "UID":"BC 9B 06 7D"},
+	{"nome": "Claudia Leite", "UID":"EE 9B 06 7D"},
+	{"nome": "Kate Perry", "UID":"9D 9B 06 7D"}
 ]
 }
