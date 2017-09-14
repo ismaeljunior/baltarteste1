@@ -6,4 +6,4 @@ Fiz um código para a gente usar no leitor de cartões do tipo Mifrae, o código
 
 Vamo lá galera... =D
 
-**Obs.: Seu código deve ficar onde tem //TODO, mas se quiser incluir algo ou corrigir algum erro que eu tenha cometido pode meter bronca.. TRABALHO EM EQUIPE.. ;) **
+**Obs.: Seu código deve ficar onde tem //TODO, mas se quiser incluir algo ou corrigir algum erro que eu tenha cometido pode meter bronca.. TRABALHO EM EQUIPE.. ;)**
