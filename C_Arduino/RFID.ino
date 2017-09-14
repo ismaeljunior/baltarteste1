@@ -41,6 +41,8 @@ void loop(){
   if (resposta){
     digitalWrite(LG_PIN, HIGH);
     digitalWrite(LG_PIN, LOW);
+    delay(2000);
+    digitalWrite(LG_PIN, LOW);
   }else{
     digitalWrite(LG_PIN, LOW);
     digitalWrite(LG_PIN, HIGH);
