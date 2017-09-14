@@ -2,9 +2,9 @@
 
 Fala galerinha..!!
 
-Tenho uma novidade..encontrei na internet um script que já trata a comunicação serial, fiz umas modificações nele para melhor nos atender nesse projeto, está em PythonSerialMonitor.py ele vai nos ajudar bastante, mas vamos para o que importa.
+Tenho uma novidade.. encontrei na internet um script que já trata a comunicação serial, fiz umas modificações nele para melhor nos atender nesse projeto, está em PythonSerialMonitor.py ele vai nos ajudar bastante, mas vamos para o que importa.
 
-Eu estou meio enrolado nesse projeto e preciso que vocês completem esse código que comecei, o arquivo é o interface.py, ele já está verificando a porta serial do computador afim de se conectar ao arduino se ele o encontrar ele entra num loop infinito que fica monitorando a porta e armazenando o conteudo enviado pelo arduino na variável que eu nomeei como _line, aí onde eu me enrolei.. :(
+Eu estou meio enrolado nesse projeto e preciso que vocês completem esse código que comecei, o arquivo é o interface.py, ele já está verificando a porta serial do computador afim de se conectar ao arduino se ele o encontrar ele entra num loop infinito que fica monitorando a porta e armazenando o conteúdo enviado pelo arduino na variável que eu nomeei como _line, aí onde eu me enrolei.. :(
 
 Não sei enviar o UID como uma requisição GET para a página requisicao.php e enviar a resposta para o arduino...
 
