@@ -2,19 +2,23 @@
 
 	E aí Pessoal?!!
 
-	Gostaria muito ajudar um colega e preciso de vocês para essa tarefa. Caso não consigam solucionar todos os problemas não tem problema, por isso trabalhamos em equipe. ;)
+	Gostaria muito ajudar um colega e preciso de vocês para essa tarefa. Caso não consigam solucionar todos os problemas
+	 não tem problema, por isso trabalhamos em equipe. ;)
 
 	Vamos a questão...
 
 
 	Meu colega é um empresário Sul-Africano chamado Noel Sumk.
 
-	Sumk acabou de concluir o projeto do principal produto da sua empresa, Setla Motorcycle, a motocicleta 100% elétrica <br />(Qualquer semelhança é mera coincidência.. =D). A ideia não seria comercializar a motocicleta e sim ter um sistema de entregas rápidas para mercadoria de pequeno porte em perímetros urbanos, usando energia limpa e sustentável.
+	Sumk acabou de concluir o projeto do principal produto da sua empresa, Setla Motorcycle, a motocicleta 100% elétrica 
+	(Qualquer semelhança é mera coincidência.. =D). A ideia não seria comercializar a motocicleta e sim ter um sistema de 
+	entregas rápidas para mercadoria de pequeno porte em perímetros urbanos, usando energia limpa e sustentável.
 	Com a engenharia do veículo resolvida, ele iniciou a etapa de integração com o usuário e seus colaboradores. 
 
 	Aí onde vai entrar a nossa ajuda...
 	
-	O controle dos pilotos será feito através de um token RFID (Chaveiro ou Cartão Mifare), que ao ser aproximado do leitor fornecerá um UID para o dispositivo, que fará a liberação ou não da motocicleta para o piloto.
+	O controle dos pilotos será feito através de um token RFID (Chaveiro ou Cartão Mifare), que ao ser aproximado do leitor 
+	fornecerá um UID para o dispositivo, que fará a liberação ou não da motocicleta para o piloto.
 
 	Dividimos o problema em etapas para facilitar o entendimento e a solução:
 
