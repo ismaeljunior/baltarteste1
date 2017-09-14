@@ -20,8 +20,8 @@ def monitorSerial():
 	while not finish:
 		if psm.get_status():
 			try:
-				line = psm.read_serial()
-				if (line != ''):
+				_line = psm.read_serial()
+				if (_line != ''):
 
 					#TODO
 
@@ -32,12 +32,9 @@ def monitorSerial():
 				time.sleep(1)
 				psm.ini()
 
-#Inicia os Threads e seta as funcoes de tratamento
-#Thread que verifica se o gravador esta conectado
 t1 = threading.Thread(target=serialCheck)
-#Thread que trata a porta serial
 t2 = threading.Thread(target=monitorSerial)
-#inicia
+
 t1.start()
 t2.start()
 while(True):
