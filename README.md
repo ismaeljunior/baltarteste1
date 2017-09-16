@@ -2,7 +2,7 @@
 
 E aí Pessoal?!!
 
-Gostaria muito ajudar um colega e preciso de vocês para essa tarefa. Caso não consigam solucionar todos os problemas fiquem tranquilos, por isso trabalhamos em equipe. ;)
+Gostaria muito ajudar um colega e preciso de vocês para essa tarefa. Caso não consigam solucionar todos os problemas, fiquem tranquilos, por isso trabalhamos em equipe. ;)
 
 Vamos a questão...
 
