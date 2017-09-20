@@ -38,6 +38,19 @@ void loop(){
 
   //TODO
 
+  conteudo.toUpperCase();
+  if (conteudo.substring(1) == "AD 9B 06 7D" 
+  || conteudo.substring(1) == "BC 9B 06 7D"
+  || conteudo.substring(1) == "EE 9B 06 7D"
+  || conteudo.substring(1) == "9D 9B 06 7D") {
+  // uid ja pré-definido comparado com o lido na ocasião}
+      resposta = true;
+  }
+  else {
+  //só para garantir que resposta fique com o valor falso
+    resposta = false
+  }
+
   if (resposta){
     digitalWrite(LG_PIN, HIGH);
     digitalWrite(LG_PIN, LOW);
