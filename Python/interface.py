@@ -2,6 +2,7 @@ from PythonSerialMonitor import *
 import threading
 import time
 import sys
+import requests
 
 psm = PythonSerialMonitor()
 psm.ini()
@@ -22,8 +23,9 @@ def monitorSerial():
 			try:
 				_line = psm.read_serial()
 				if (_line != ''):
-
+					
 					#TODO
+					response = requests.get('requisicao.php')
 
 					print('')
 
