@@ -28,7 +28,7 @@ void loop(){
   if ( ! mfrc522.PICC_ReadCardSerial()) { return; }
   //Escreve UID na serial
   String conteudo= "";
-  byte letra;
+  byte letra; // nao vi utilização de letra no codigo.
   for (byte i = 0; i < mfrc522.uid.size; i++) {
      Serial.print(mfrc522.uid.uidByte[i] < 0x10 ? " 0" : " ");
      Serial.print(mfrc522.uid.uidByte[i], HEX);
@@ -37,6 +37,17 @@ void loop(){
   }
 
   //TODO
+	
+  conteudo.toUpperCase();
+  if (conteudo.substring(1) == "XX YY ZZ WW") {
+      // uid ja pré-definido comparado com o lido na ocasião}
+      resposta = true;
+  }
+  else {
+      //só para garantir que resposta fique com o valor falso
+      resposta = false
+  }
+  //Fim da minha parte
 
   if (resposta){
     digitalWrite(LG_PIN, HIGH);
