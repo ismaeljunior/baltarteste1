@@ -24,7 +24,7 @@ Dividimos o problema em etapas para facilitar o entendimento e a solução:
 
 Vamos separar nosso projeto em pastas aqui nesse repositório, uma para cada solução, nomeadas com a linguagem de progração utilizada, nelas estão as instruções para completarmos esse desafio. Vocês podem clonar ele ou fazer o download dos arquivos, assim que concluírem respondam o e-mail que tinha o link para cá com os arquivos zipado. Nós só vamos avaliar os e-mails recebidos até **terça-feira (19/09)**.
 
-Valeu pessoal..Boa Sorte e vamos tentar ao máximo solucionar esse problema do Noel, vai que ele fecha um contrato com a gente... =D
+Valeu pessoal...Boa Sorte e vamos tentar ao máximo solucionar esse problema do Noel, vai que ele fecha um contrato com a gente... =D
 
 As pastas são:
 
